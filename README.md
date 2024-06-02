@@ -6,3 +6,4 @@ The dataset that used in my data analysis was downloaded from GitHub.
 # DATABASE TOOLS
 (a.)Postgre SQL 
 (b.)PgAdmin4
+![MusicDatabaseSchema](https://github.com/ankittanwar003/SQL_MUSIC-STORE_-ANALYSIS/assets/158051754/eb5e8208-1e6d-4b11-91c1-ee51abccb8cb)
